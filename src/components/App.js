@@ -1,7 +1,7 @@
 import React from 'react'
 
 const App = () => {
-  const relatives = [Ramesh, Suresh, Rakesh, Mahesh]
+  const relatives = ["Ramesh", "Suresh", "Rakesh", "Mahesh"]
   return (
     <div id="main">
                {/* Do not remove the main div */}
